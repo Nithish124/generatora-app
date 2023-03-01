@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nithish124/pas-gen-app/static/css/main.b4c548e7.css",
-    "main.js": "/Nithish124/pas-gen-app/static/js/main.48193188.js",
-    "static/js/787.3d5e1fcb.chunk.js": "/Nithish124/pas-gen-app/static/js/787.3d5e1fcb.chunk.js",
-    "index.html": "/Nithish124/pas-gen-app/index.html",
-    "main.b4c548e7.css.map": "/Nithish124/pas-gen-app/static/css/main.b4c548e7.css.map",
-    "main.48193188.js.map": "/Nithish124/pas-gen-app/static/js/main.48193188.js.map",
-    "787.3d5e1fcb.chunk.js.map": "/Nithish124/pas-gen-app/static/js/787.3d5e1fcb.chunk.js.map"
+    "main.css": "/Nithish124/generatora-app/static/css/main.b4c548e7.css",
+    "main.js": "/Nithish124/generatora-app/static/js/main.6fc3510d.js",
+    "static/js/787.3d5e1fcb.chunk.js": "/Nithish124/generatora-app/static/js/787.3d5e1fcb.chunk.js",
+    "index.html": "/Nithish124/generatora-app/index.html",
+    "main.b4c548e7.css.map": "/Nithish124/generatora-app/static/css/main.b4c548e7.css.map",
+    "main.6fc3510d.js.map": "/Nithish124/generatora-app/static/js/main.6fc3510d.js.map",
+    "787.3d5e1fcb.chunk.js.map": "/Nithish124/generatora-app/static/js/787.3d5e1fcb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4c548e7.css",
-    "static/js/main.48193188.js"
+    "static/js/main.6fc3510d.js"
   ]
 }
