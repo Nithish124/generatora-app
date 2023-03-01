@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nithish124/pas-gen-app/static/css/main.b4c548e7.css",
+    "main.js": "/Nithish124/pas-gen-app/static/js/main.48193188.js",
+    "static/js/787.3d5e1fcb.chunk.js": "/Nithish124/pas-gen-app/static/js/787.3d5e1fcb.chunk.js",
+    "index.html": "/Nithish124/pas-gen-app/index.html",
+    "main.b4c548e7.css.map": "/Nithish124/pas-gen-app/static/css/main.b4c548e7.css.map",
+    "main.48193188.js.map": "/Nithish124/pas-gen-app/static/js/main.48193188.js.map",
+    "787.3d5e1fcb.chunk.js.map": "/Nithish124/pas-gen-app/static/js/787.3d5e1fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4c548e7.css",
+    "static/js/main.48193188.js"
+  ]
+}
